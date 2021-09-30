@@ -1,0 +1,42 @@
+.img-fluid{
+    padding-left: 320px;
+}
+
+#footerlist{
+    list-style: none;
+    padding-top:10px;
+}
+
+#footerpic{
+    padding:10px 35px 10px 35px;
+}
+
+#overview{
+    padding-top:15px;
+}
+
+
+
+#blubtn{
+    width: 7em;
+    margin-left:928px;
+    margin-top:-30px;
+    
+}
+
+.card-title{
+    font-size: 1em;
+}
+
+#edit{
+    border:1px solid darkgrey;
+}
+
+#show{
+    border:1px solid darkgrey;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
